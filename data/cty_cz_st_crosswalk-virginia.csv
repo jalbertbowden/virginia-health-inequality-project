@@ -1,0 +1,136 @@
+cty,county_name,cz,cz_name,statename,state_fips,stateabbrv
+51001,Accomack,19903,Chincoteague,Virginia,51,VA
+51003,Albemarle,17600,Charlottesville,Virginia,51,VA
+51005,Alleghany,17300,Staunton,Virginia,51,VA
+51007,Amelia,2400,Richmond,Virginia,51,VA
+51009,Amherst,2300,Lynchburg,Virginia,51,VA
+51011,Appomattox,2300,Lynchburg,Virginia,51,VA
+51013,Arlington,11304,Washington DC,Virginia,51,VA
+51015,Augusta,17300,Staunton,Virginia,51,VA
+51017,Bath,17300,Staunton,Virginia,51,VA
+51019,Bedford,2300,Lynchburg,Virginia,51,VA
+51021,Bland,11201,Bluefield,Virginia,51,VA
+51023,Botetourt,16600,Roanoke,Virginia,51,VA
+51025,Brunswick,2200,South Boston,Virginia,51,VA
+51027,Buchanan,11201,Bluefield,Virginia,51,VA
+51029,Buckingham,17600,Charlottesville,Virginia,51,VA
+51031,Campbell,2300,Lynchburg,Virginia,51,VA
+51033,Caroline,11301,Fredericksburg,Virginia,51,VA
+51035,Carroll,602,Galax,Virginia,51,VA
+51036,Charles City,2400,Richmond,Virginia,51,VA
+51037,Charlotte,2200,South Boston,Virginia,51,VA
+51041,Chesterfield,2400,Richmond,Virginia,51,VA
+51043,Clarke,17502,Winchester,Virginia,51,VA
+51045,Craig,16600,Roanoke,Virginia,51,VA
+51047,Culpeper,17600,Charlottesville,Virginia,51,VA
+51049,Cumberland,2200,South Boston,Virginia,51,VA
+51051,Dickenson,11203,Big Stone Gap,Virginia,51,VA
+51053,Dinwiddie,2400,Richmond,Virginia,51,VA
+51057,Essex,11303,Colonial Beach,Virginia,51,VA
+51059,Fairfax,11304,Washington DC,Virginia,51,VA
+51061,Fauquier,11304,Washington DC,Virginia,51,VA
+51063,Floyd,16600,Roanoke,Virginia,51,VA
+51065,Fluvanna,17600,Charlottesville,Virginia,51,VA
+51067,Franklin,16600,Roanoke,Virginia,51,VA
+51069,Frederick,17502,Winchester,Virginia,51,VA
+51071,Giles,16600,Roanoke,Virginia,51,VA
+51073,Gloucester,2500,Newport News,Virginia,51,VA
+51075,Goochland,2400,Richmond,Virginia,51,VA
+51077,Grayson,602,Galax,Virginia,51,VA
+51079,Greene,17600,Charlottesville,Virginia,51,VA
+51081,Greensville,2600,Roanoke Rapids,Virginia,51,VA
+51083,Halifax,2200,South Boston,Virginia,51,VA
+51085,Hanover,2400,Richmond,Virginia,51,VA
+51087,Henrico,2400,Richmond,Virginia,51,VA
+51089,Henry,402,Martinsville,Virginia,51,VA
+51091,Highland,17300,Staunton,Virginia,51,VA
+51093,Isle Of Wight,2500,Newport News,Virginia,51,VA
+51095,James City,2500,Newport News,Virginia,51,VA
+51097,King And Queen,2400,Richmond,Virginia,51,VA
+51099,King George,11301,Fredericksburg,Virginia,51,VA
+51101,King William,2400,Richmond,Virginia,51,VA
+51103,Lancaster,11303,Colonial Beach,Virginia,51,VA
+51105,Lee,11203,Big Stone Gap,Virginia,51,VA
+51107,Loudoun,11304,Washington DC,Virginia,51,VA
+51109,Louisa,17600,Charlottesville,Virginia,51,VA
+51111,Lunenburg,2200,South Boston,Virginia,51,VA
+51113,Madison,17600,Charlottesville,Virginia,51,VA
+51115,Mathews,2500,Newport News,Virginia,51,VA
+51117,Mecklenburg,2200,South Boston,Virginia,51,VA
+51119,Middlesex,2500,Newport News,Virginia,51,VA
+51121,Montgomery,16600,Roanoke,Virginia,51,VA
+51125,Nelson,17300,Staunton,Virginia,51,VA
+51127,New Kent,2400,Richmond,Virginia,51,VA
+51131,Northampton,19903,Chincoteague,Virginia,51,VA
+51133,Northumberland,11303,Colonial Beach,Virginia,51,VA
+51135,Nottoway,2200,South Boston,Virginia,51,VA
+51137,Orange,17600,Charlottesville,Virginia,51,VA
+51139,Page,17200,Harrisonburg,Virginia,51,VA
+51141,Patrick,402,Martinsville,Virginia,51,VA
+51143,Pittsylvania,500,Greensboro,Virginia,51,VA
+51145,Powhatan,2400,Richmond,Virginia,51,VA
+51147,Prince Edward,2200,South Boston,Virginia,51,VA
+51149,Prince George,2400,Richmond,Virginia,51,VA
+51153,Prince William,11304,Washington DC,Virginia,51,VA
+51155,Pulaski,16600,Roanoke,Virginia,51,VA
+51157,Rappahannock,11304,Washington DC,Virginia,51,VA
+51159,Richmond,11303,Colonial Beach,Virginia,51,VA
+51161,Roanoke,16600,Roanoke,Virginia,51,VA
+51163,Rockbridge,17300,Staunton,Virginia,51,VA
+51165,Rockingham,17200,Harrisonburg,Virginia,51,VA
+51167,Russell,11201,Bluefield,Virginia,51,VA
+51169,Scott,100,Johnson City,Virginia,51,VA
+51171,Shenandoah,17200,Harrisonburg,Virginia,51,VA
+51173,Smyth,100,Johnson City,Virginia,51,VA
+51175,Southampton,2500,Newport News,Virginia,51,VA
+51177,Spotsylvania,11301,Fredericksburg,Virginia,51,VA
+51179,Stafford,11301,Fredericksburg,Virginia,51,VA
+51181,Surry,2500,Newport News,Virginia,51,VA
+51183,Sussex,2400,Richmond,Virginia,51,VA
+51185,Tazewell,11201,Bluefield,Virginia,51,VA
+51187,Warren,11304,Washington DC,Virginia,51,VA
+51191,Washington,100,Johnson City,Virginia,51,VA
+51193,Westmoreland,11303,Colonial Beach,Virginia,51,VA
+51195,Wise,11203,Big Stone Gap,Virginia,51,VA
+51197,Wythe,11201,Bluefield,Virginia,51,VA
+51199,York,2500,Newport News,Virginia,51,VA
+51510,Alexandria City,11304,Washington DC,Virginia,51,VA
+51515,Bedford City,2300,Lynchburg,Virginia,51,VA
+51520,Bristol City,100,Johnson City,Virginia,51,VA
+51530,Buena Vista City,17300,Staunton,Virginia,51,VA
+51540,Charlottesville City,17600,Charlottesville,Virginia,51,VA
+51550,Chesapeake City,2000,Virginia Beach,Virginia,51,VA
+51560,Clifton Forge City,17300,Staunton,Virginia,51,VA
+51570,Colonial Heights City,2400,Richmond,Virginia,51,VA
+51580,Covington City,17300,Staunton,Virginia,51,VA
+51590,Danville City,500,Greensboro,Virginia,51,VA
+51595,Emporia City,2600,Roanoke Rapids,Virginia,51,VA
+51600,Fairfax City,11304,Washington DC,Virginia,51,VA
+51610,Falls Church City,11304,Washington DC,Virginia,51,VA
+51620,Franklin City,2500,Newport News,Virginia,51,VA
+51630,Fredericksburg City,11301,Fredericksburg,Virginia,51,VA
+51640,Galax City,602,Galax,Virginia,51,VA
+51650,Hampton City,2500,Newport News,Virginia,51,VA
+51660,Harrisonburg City,17200,Harrisonburg,Virginia,51,VA
+51670,Hopewell City,2400,Richmond,Virginia,51,VA
+51678,Lexington City,17300,Staunton,Virginia,51,VA
+51680,Lynchburg City,2300,Lynchburg,Virginia,51,VA
+51683,Manassas City,11304,Washington DC,Virginia,51,VA
+51685,Manassas Park City,11304,Washington DC,Virginia,51,VA
+51690,Martinsville City,402,Martinsville,Virginia,51,VA
+51700,Newport News City,2500,Newport News,Virginia,51,VA
+51710,Norfolk City,2000,Virginia Beach,Virginia,51,VA
+51720,Norton City,11203,Big Stone Gap,Virginia,51,VA
+51730,Petersburg City,2400,Richmond,Virginia,51,VA
+51735,Poquoson City,2500,Newport News,Virginia,51,VA
+51740,Portsmouth City,2000,Virginia Beach,Virginia,51,VA
+51750,Radford City,16600,Roanoke,Virginia,51,VA
+51760,Richmond City,2400,Richmond,Virginia,51,VA
+51770,Roanoke City,16600,Roanoke,Virginia,51,VA
+51775,Salem City,16600,Roanoke,Virginia,51,VA
+51790,Staunton City,17300,Staunton,Virginia,51,VA
+51800,Suffolk City,2000,Virginia Beach,Virginia,51,VA
+51810,Virginia Beach City,2000,Virginia Beach,Virginia,51,VA
+51820,Waynesboro City,17300,Staunton,Virginia,51,VA
+51830,Williamsburg City,2500,Newport News,Virginia,51,VA
+51840,Winchester City,17502,Winchester,Virginia,51,VA
